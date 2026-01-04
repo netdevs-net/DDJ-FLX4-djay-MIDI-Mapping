@@ -134,7 +134,7 @@ The mapping file is an XML plist that can be edited with any text editor. Key fi
 
 ## Related Resources
 
-- [Algoriddim Community Forum - Issues remapping on DDJ-FLX4](https://community.algoriddim.com/t/issues-remapping-on-ddj-flx4/23804) - Discussion about custom DDJ-FLX4 mappings and limitations with certain buttons
+- [Algoriddim Community Forum - Issues remapping on DDJ-FLX4](https://community.algoriddim.com/t/issues-remapping-on-ddj-flx4/23804) - Discussion about custom DDJ-FLX4 mappings, featuring Michael_Wisniewski's original Unofficial mapping
 
 ## Contributing
 
@@ -149,9 +149,19 @@ This MIDI mapping is provided as-is for use with djay Pro. Feel free to modify a
 
 ## Credits
 
-- **Mapping Author**: DJ_Raion
+- **Original MIDI Mapping Developer**: [Michael_Wisniewski](https://community.algoriddim.com/t/issues-remapping-on-ddj-flx4/23804) - Sole developer of the DDJ-FLX4 (Unofficial2.9) MIDI mapping 3.0
+- **Customizations**: DJ_Raion - Minor personal customizations to the original mapping
 - **Controller**: Pioneer DDJ-FLX4
 - **Software**: djay Pro by Algoriddim
+
+### Note on Customizations
+
+This mapping is based on Michael_Wisniewski's excellent work on the DDJ-FLX4 (Unofficial2.9) mapping. The customizations made by DJ_Raion include:
+- Remapping Cue buttons to toggle Neural Mix for each deck
+- Remapping Smart Fader and Release FX buttons to toggle FX1 for Deck 1 and Deck 2
+- Remapping the middle button to Crossfader FX toggle
+
+These are personal preferences and may differ from the original mapping.
 
 ## Version History
 
