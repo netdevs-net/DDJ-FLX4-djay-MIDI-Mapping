@@ -159,7 +159,7 @@ This MIDI mapping is provided as-is for use with djay Pro. Feel free to modify a
 This mapping is based on Michael_Wisniewski's excellent work on the DDJ-FLX4 (Unofficial2.9) mapping. The customizations made by DJ_Raion include:
 - Remapping Cue buttons to toggle Neural Mix for each deck
 - Remapping Smart Fader and Release FX buttons to toggle FX1 for Deck 1 and Deck 2
-- Remapping the middle button to Crossfader FX toggle
+- Remapping the Smart CFX button to Crossfader FX toggle
 
 These are personal preferences and may differ from the original mapping.
 
