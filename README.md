@@ -132,6 +132,10 @@ The mapping file is an XML plist that can be edited with any text editor. Key fi
 - Use deck-specific keyPaths (`turntable1.*`, `turntable2.*`) instead of `turntableSelected.*`
 - Ensure different MIDI channels for deck-specific controls
 
+## Related Resources
+
+- [Algoriddim Community Forum - Issues remapping on DDJ-FLX4](https://community.algoriddim.com/t/issues-remapping-on-ddj-flx4/23804) - Discussion about custom DDJ-FLX4 mappings and limitations with certain buttons
+
 ## Contributing
 
 Contributions are welcome! Please feel free to:
