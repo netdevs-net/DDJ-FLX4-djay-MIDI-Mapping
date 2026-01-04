@@ -8,7 +8,7 @@ This MIDI mapping provides a comprehensive control scheme for the DDJ-FLX4 contr
 
 - **Neural Mix toggle** - Cue buttons now toggle Neural Mix (Unmixer EQ Mode) for each deck
 - **FX1 controls** - Smart Fader and Release FX buttons toggle FX1 for Deck 1 and Deck 2
-- **Crossfader FX** - Middle button toggles Crossfader FX
+- **Crossfader FX** - Smart CFX toggles Crossfader FX
 - **Filter controls** - Dedicated filter knobs for each deck
 - **Cue points** - Full 8-cue point support per deck
 - **Loop controls** - Comprehensive looping functionality
@@ -52,7 +52,7 @@ This mapping includes several customizations that differ from the default DDJ-FL
 - **Deck 2**: Toggles FX1 Enabled state for Deck 2
 - Quick access to enable/disable FX1 on each deck independently
 
-#### Middle Button → Crossfader FX Toggle
+#### Smart CFX Button → Crossfader FX Toggle
 - Toggles Crossfader FX mode
 - Allows FX to be applied via the crossfader position
 
@@ -169,7 +169,7 @@ These are personal preferences and may differ from the original mapping.
 - **Custom Mappings**:
   - Cue buttons remapped to toggle Neural Mix for each deck
   - Smart Fader and Release FX buttons remapped to toggle FX1 for Deck 1 and Deck 2
-  - Middle button remapped to Crossfader FX toggle
+  - Smart CFX button remapped to Crossfader FX toggle
 - Optimized for quick access to Neural Mix and FX1 controls
 
 ---
